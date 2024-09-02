@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Sumedh Raj Bajracharya
+- 👋 Hi, I’m Sumedh R. Bajracharya
 - 👀 I’m interested in self-improvement, psychology and coding.
 - 🌱 I’m currently learning MERN and Data Science 
-- 💞️ I’m looking to collaborate on MERN projects.
+- 💞️ I’m looking to collaborate.
 - 📫 How to reach me : therealsumedh - instagram id
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: geting things done.
