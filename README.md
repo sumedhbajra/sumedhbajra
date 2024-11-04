@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sumedh R. Bajracharya
-- 👀 I’m interested in self-improvement, psychology and coding.
+- 👀 I’m interested in psychology, political science and coding.
 - 🌱 I’m currently learning MERN and Data Science 
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me : therealsumedh - instagram id
